@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "local_gpt",
+    "productName": "com.local_gpt.desktop",
     "version": "0.0.0"
   },
   "tauri": {
